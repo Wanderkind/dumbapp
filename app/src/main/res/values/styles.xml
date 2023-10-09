@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="android:windowBackground">@color/white</item>
+    </style>
+
+    <style name="CustomButtonStyle1">
+        <item name="android:background">@color/light_blue</item>
+    </style>
+
+    <style name="CustomButtonStyle2">
+        <item name="android:background">@color/light_pink</item>
+    </style>
+</resources>
